@@ -12,6 +12,11 @@
 
 - [Jinja Template - Pixel Lite](https://jinja-template-pixel-uikit.appseed.us/) - LIVE Demo
 
+> Used By
+
+- [Flask Pixel UI Free](https://appseed.us/apps/flask-apps/flask-pixel-bootstrap-uikit) - Free starter coded in Flask
+- [Flask Pixel UI PRO](https://appseed.us/apps/flask-apps/flask-pixel-uikit-pro) - Premium Flask starter
+
 <br />
 
 ## UI Kit - [Pixel Lite](https://themesberg.com/product/ui-kit/pixel-lite-free-bootstrap-4-ui-kit?ref=appseed)

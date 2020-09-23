@@ -3,10 +3,9 @@
 > Seed project coded in Flask/Jinja on top of Pixel UI KIt (free version) - Features:
 
 - UI Kit: **Pixel Lite** (Free Version) by **Themesberg**
-- Render Engine: Flask/[Jinja2](https://jinja.palletsprojects.com/)
-- **[MIT License](https://github.com/app-generator/license-mit)**
-- Free support via **Github** issues tracker
-- Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+- Render Engine: [Jinja2](https://jinja.palletsprojects.com/)
+- Framework: Flask (no database, no hard dependencies)
+- Free support via **Github** and [Discord](https://discord.gg/fZC6hup).
 
 > Links
 

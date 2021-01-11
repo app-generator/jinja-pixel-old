@@ -1,4 +1,4 @@
-# [Jinja Template](https://appseed.us/jinja-template) - [Pixel Lite](https://appseed.us/jinja-template/jinja-template-pixel-uikit)
+# [Jinja Template](https://appseed.us/jinja-template) - Pixel Lite
 
 > Seed project coded in Flask/Jinja on top of Pixel UI KIt (free version) - Features:
 
@@ -7,11 +7,12 @@
 - Framework: Flask (no database, no hard dependencies)
 - Free support via **Github** and [Discord](https://discord.gg/fZC6hup).
 
+<br />
+
 > Links
 
-- [Jinja Template Pixel Lite](https://appseed.us/jinja-template/jinja-template-pixel-uikit) - Product page
-- [Jinja Template Pixel Demo](https://jinja-template-pixel-uikit.appseed.us/) - LIVE Demo
-- **[Jinja Pixel PRO](https://appseed.us/jinja-template/jinja-pixel-uikit-pro)** - the premium version
+- [Jinja Pixel Lite](https://appseed.us/jinja-template/jinja-template-pixel-uikit) - Product page
+- [Jinja Pixel Lite Demo](https://jinja-pixel-lite.appseed-srv1.com/) - LIVE Demo
 
 <br />
 
@@ -176,4 +177,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Jinja Template - Pixel Lite](https://appseed.us/jinja-template/jinja-template-pixel-uikit) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Jinja Template](https://appseed.us/jinja-template) Pixel Lite - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).

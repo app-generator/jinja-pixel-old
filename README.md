@@ -15,14 +15,7 @@
 
 <br />
 
-## UI Kit - [Pixel Lite](https://themesberg.com/product/ui-kit/pixel-lite-free-bootstrap-4-ui-kit?ref=appseed)
-
-*Vendor Notes* - Pixel is a free, fully responsive and modern Bootstrap 4 UI Kit that will help you build creative and professional websites. Use our components and sections, switch some Sass variables to build and arrange pages to best suit your needs.
-Pixel is a premium extension of the famous Bootstrap CSS Framework featuring pricing cards, profile cards, timelines and many more. All components are created to comply as much as possible with the WCAG 2.1 standards.
-
-<br />
-
-![Template Jinja2 Theme - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-template-pixel-uikit/master/media/jinja-template-pixel-uikit-screen.png)
+![Jinja Pixel Lite - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-template-pixel-uikit/master/media/jinja-template-pixel-uikit-screen.png)
 
 <br />
 

@@ -1,10 +1,9 @@
 {
     "name": "jinja-template-pixel-uikit",
     "mastertemplate": "theme-jinja2",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Template project - Flask/Jinja2 Theme",
-    "scripts": {
-    },
+    "scripts": {},
     "repository": {
         "type": "git",
         "url": "https://github.com/app-generator/jinja-template-pixel-uikit"
@@ -17,8 +16,6 @@
     "engines": {
         "node": ">=10.0.0"
     },
-    "dependencies": {
-    },
-    "devDependencies": {
-    }
+    "dependencies": {},
+    "devDependencies": {}
 }

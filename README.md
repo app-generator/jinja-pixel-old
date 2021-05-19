@@ -4,6 +4,12 @@
 
 <br />
 
+## Status: Migration is progress
+
+The product is actively migrated to the latest UI version: [Pixel UI v4.0.0](https://github.com/themesberg/pixel-bootstrap-ui-kit/releases/tag/v4.0)
+
+<br />
+
 > Features:
 
 - UI Kit: **[Pixel Lite](https://docs.appseed.us/content/bootstrap-template/pixel-lite-template)** (Free Version) by **Themesberg**

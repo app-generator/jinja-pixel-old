@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.2] 2021-05-20
+
+- Bump UI: [Pixel Lite](https://github.com/themesberg/pixel-bootstrap-ui-kit) v4.0.0
+- Bump Codebase: [Jinja](https://github.com/app-generator/boilerplate-code-jinja/releases) v1.0.5
+
 ## [1.0.1] 2021-01-11
 
 - Bump UI: [Pixel Lite](https://github.com/themesberg/pixel-bootstrap-ui-kit) v3.1.2

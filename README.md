@@ -4,12 +4,6 @@
 
 <br />
 
-## Status: Migration is progress
-
-The product is actively migrated to the latest UI version: [Pixel UI v4.0.0](https://github.com/themesberg/pixel-bootstrap-ui-kit/releases/tag/v4.0)
-
-<br />
-
 > Features:
 
 - UI Kit: **[Pixel Lite](https://docs.appseed.us/content/bootstrap-template/pixel-lite-template)** (Free Version) by **Themesberg**
@@ -35,8 +29,8 @@ The product is actively migrated to the latest UI version: [Pixel UI v4.0.0](htt
 
 ```bash
 $ # Clone the sources
-$ git clone https://github.com/app-generator/jinja-template-pixel-uikit.git
-$ cd jinja-template-pixel-uikit
+$ git clone https://github.com/app-generator/jinja-pixel-lite.git
+$ cd jinja-pixel-lite
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
@@ -125,8 +119,8 @@ The steps to start the template using Docker:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/jinja-template-pixel-uikit.git
-$ cd jinja-template-pixel-uikit
+$ git clone https://github.com/app-generator/jinja-pixel-lite.git
+$ cd jinja-pixel-lite
 ```
 
 > Start the app in Docker

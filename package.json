@@ -1,15 +1,15 @@
 {
-    "name": "jinja-template-pixel-uikit",
+    "name": "jinja-pixel-lite",
     "mastertemplate": "theme-jinja2",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Template project - Flask/Jinja2 Theme",
     "scripts": {},
     "repository": {
         "type": "git",
-        "url": "https://github.com/app-generator/jinja-template-pixel-uikit"
+        "url": "https://github.com/app-generator/jinja-pixel-lite"
     },
     "bugs": {
-        "url": "https://github.com/app-generator/jinja-template-pixel-uikit/issues",
+        "url": "https://github.com/app-generator/jinja-pixel-lite/issues",
         "email": "support@appseed.us"
     },
     "author": "AppSeed App Generator <support@appseed.us> (https://appseed.us)",

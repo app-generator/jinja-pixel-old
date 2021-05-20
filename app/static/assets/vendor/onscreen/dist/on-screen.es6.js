@@ -383,4 +383,4 @@ Object.defineProperties(OnScreen.prototype, {
 OnScreen.check = inViewport;
 
 export default OnScreen;
-//# sourceMappingURL=on-screen.es6.js.map
+

@@ -21,7 +21,7 @@
 
 <br />
 
-![Jinja Pixel Lite - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-template-pixel-uikit/master/media/jinja-template-pixel-uikit-screen.png)
+![Jinja Pixel Lite - Template project provided by AppSeed](https://user-images.githubusercontent.com/51070104/119006115-bf43ef00-b998-11eb-9239-faea534ad885.png)
 
 <br />
 

@@ -221,4 +221,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Jinja Pixel Lite](https://appseed.us/jinja-template/jinja-template-pixel-uikit) - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
+[Flask/Jinja Pixel Lite](https://appseed.us/apps/flask-apps/flask-pixel-bootstrap-uikit) - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).

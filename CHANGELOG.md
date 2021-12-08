@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.4] 2020-12-08
+### Improvements
+
+- [Jinja Codebase](https://github.com/app-generator/boilerplate-code-jinja/releases) v2.0.0
+  - Improved Docker Support
+  - Codebase structure updated 
+
 ## [1.0.3] 2021-07-18
 ### Tooling
 
